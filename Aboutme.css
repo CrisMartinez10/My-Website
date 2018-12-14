@@ -1,0 +1,51 @@
+h1{
+  text-align:center;
+  margin-top: -50px;
+  font-family: 'Pattaya', sans-serif;
+}
+body{
+  background: url(http://cdn.paperhi.com/1920x1080/20130411/minimalistic%20red%20geometry%20simple%20background%20black%20background%20basic%20colors%201920x1080%20wallpaper_www.paperhi.com_10.jpg);
+  background-size: 1900px
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+p{
+  color: white;
+}
+#wut{
+  height: 100px;
+  width: 100px;
+}
+#mate{
+  height: 100px;
+  width: 150px;
+}
+#cuh{
+  height: 100px;
+  width: 180px;
+}
